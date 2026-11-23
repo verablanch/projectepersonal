@@ -1,0 +1,2 @@
+Pon aquí las portadas como 01.jpg … 12.jpg (mismo orden que las 12 canciones).
+Si no hay archivo, la web intenta cargar la portada desde Spotify.
